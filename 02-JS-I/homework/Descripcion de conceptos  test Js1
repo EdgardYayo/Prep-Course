@@ -1,0 +1,15 @@
+
+
+//Variables
+   //Sirven como contenedores de valores, se crean para asignarle un valor a algo
+//Strings
+   //Son cadenas de caracteres pueden ser letras, numeros, simbolos
+//Funciones (argumentos, `return`)
+   //sirven para agrupar codigo que tenga una funcion especifica, pueden ser llamadas en un futuro con por su nombre 
+   //los argumentos de una funcion son datos que le indican a la funcion en que parametros operar
+   //la funcion return detiene lo que esta haciendo una funcion y devuelve lo indicado despues del return  
+//Declaraciones if.
+   //las declaraciones if son condicionales que sirven como flujos de control y comparacion para comprobar si algo
+   // es verdadero o falso segun ciertas condiciones
+// Valores booleanos (`true`, `false`)
+   //son valores que arrojan solo 2 tipos de datos verdadero o falso y sirven para evaluar, comparar datos y arrojar true o false
