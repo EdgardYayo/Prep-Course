@@ -1,0 +1,4 @@
+// Bucles for
+   // Sirven para repetir una grupo codigo y se detienen solo si una condicion dada se cumple, si esta condicion nunca se cumple se vuelven infinitos y nunca se detienen.
+//Operadores Logicos &&, ||, !
+   // Sirven como auxiliares en la evaluacion y comparacion de datos, expresiones especialmente numericas y booleanas, existe el && (Y o And), el || (O o Or), y el ! (No o Not) este ultimo devolvera lo contrario a lo que se le pasa.
