@@ -1,0 +1,18 @@
+// Objetos
+   //Son contenedores de colecciones de datos, los obejtos se caracterizan de otros contendedores de datos por que   
+   //pueden acumular mucha informacion con respecto a una sola cosa.
+// Propiedades
+   //En los objetos los elementos son categorizados por pares de clave : valor (key:value), donde key es es el 
+   // identificador y value es el valor que queremos asignarle a esa clave, por lo que podemos decir que un propiedad
+   // de un objeto es un atributo del objeto que define una de las caracteristicas de un objeto. 
+// Métodos
+   //En los objetos algunos valores de sus propiedades pueden ser guardados en funciones, a estas funciones guardadas 
+   //dentro de un objeto se les llaman metodos.
+// Bucle for…in
+   // Es un tipo de bucle que sirve para iterar con cada para de clave:valor de un objeto; este se utiliza con objetos
+   //debido a que los objetos no contienen indices numericos por lo que un bucle estandar no funcionara con un objeto 
+//Notación de puntos vs notación de corchete
+   //Una vez que de ha definido los clave:valor de un objeto se puede acceder a ellas a traves de dot notation o notacion
+   //por puntos, la otra forma es atraves de bracket notation o notacion de corchete, en general cuando se busca acceder a
+   //un valor de una propiedad de un objeto se usa DOT NOTATION a menos que se tenga que intercalar entre variables, recorrer
+   //un objeto o en algunos otros casos especiales se utiliza BRACKET NOTATION.
