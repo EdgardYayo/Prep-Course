@@ -1,0 +1,4 @@
+//prototype
+   //Este se utiliza para establecer metodo una sola vez y darle accesso a este metodo a distintos objetos de una misma clase, esto para evitar la fatiga de escribir el metodo una y otra vez en cada objeto, toda clase tiene una propiedad prototype.
+//Constructors(de Clases)
+   //Es una especie de funcion que crea una clase y a su vez es una estructura modelo para crear objetos en base a las propiedades de esa clase, solo definimos la funcion constructura y al crear una nueva variable y utiliza el keyword new definimos creamos objetos de la clase de la funcion constructura solo pasandole argumentos.
