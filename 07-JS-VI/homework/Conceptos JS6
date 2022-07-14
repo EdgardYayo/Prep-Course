@@ -1,0 +1,4 @@
+//Funciones Callback
+   // Este concepto se refiere en Javascript a la capacidad de una funcion previamente establecida 
+   // para ser pasada por argumento dentro de otra funcion, todo esto con la finalidad 
+   // de no escribir demasiado codigo.
