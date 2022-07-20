@@ -1,0 +1,26 @@
+body {
+    color:cornsilk;
+    background-image: url(https://i.stack.imgur.com/jGlzr.png);
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+h1 {
+    color: silver; 
+}
+
+img {
+    width: 400px;
+}
+
+#thirdDiv {
+height: 500px;
+width: 600px;
+background-color: wheat;
+padding: 50px;
+border: 10px solid darkgreen;
+}
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+}
